@@ -6,3 +6,7 @@
 * git stash
 * git update-index --skip-worktree .env
 * git pull
+
+## Docker ne veut pas se connecter après docker-compose !
+
+https://docs.docker.com/install/linux/linux-postinstall/
